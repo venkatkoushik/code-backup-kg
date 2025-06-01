@@ -1,0 +1,10 @@
+java prerequitsites
+need qdmlog4js file
+need redis in local
+what i done 
+1.installed kali Linux,
+2.widowsubsytem to interact with Linux commands 
+3.installed redix using cmd line isnatllation prompt found online
+4. sudo service redis-server start
+5. redis-cli
+6. ping

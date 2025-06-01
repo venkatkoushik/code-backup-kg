@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=C:\Users\AllwynVinishLenin\Desktop\QDMLog4j.jar -DgroupId=com.ainqa -DartifactId=qdm.logger -Dversion=0.0.3 -Dpackaging=jar
